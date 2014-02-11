@@ -1,0 +1,15 @@
+
+@import "bootstrap_and_overrides";
+
+body {
+  background-image: image-url("sj_throne.jpg");
+  background-size: cover;
+}
+
+.jumbotron {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(0,0,0,.5);
+}
